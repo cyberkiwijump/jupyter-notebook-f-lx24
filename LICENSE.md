@@ -1,4 +1,4 @@
-# 
+# Enhance Jupyter Notebook for macOS (через Anaconda) with automatic Jupyter Notebook for macOS (через Anaconda) Automation | machine-learning + pivot-tables, the #1 automation.
 
 
 
